@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paragmore&label=Profile%20views&color=0e75b6&style=flat" alt="paragmore" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paragmore" alt="paragmore" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paragmore" alt="paragmore" /></a> </p>-->
 
 - 🔭 I’m currently working on [Developing sustainable mining solutions, providing software development services to industry leaders like Tether and Peartree. Leading MOS development, integrating P2P architecture at Tether. Orchestrated Bitcoin Minefarm software rollout at a significant scale, seamlessly integrating mining infrastructure into a decentralized, serverless P2P network. Successfully deployed in sites across Uruguay and El Salvador, MOS drives unparalleled efficiency as we expand our eco-friendly mining footprint worldwide.](https://tether.io/power/)
 
