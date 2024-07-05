@@ -2,6 +2,8 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paragmore&label=Profile%20views&color=0e75b6&style=flat" alt="paragmore" /> </p>
+<p align="left"> <img src="https://tracking-pixel-be.vercel.app/track/paragmore" alt="paragmore" /> </p>
+ 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paragmore" alt="paragmore" /></a> </p>-->
 
